@@ -1,22 +1,23 @@
 # Handwerker-Website Demo
 
 🚧 **Dummy-Projekt**: Beispielhafte Landingpage für ein Produkt.  
-Gebaut mit HTML, CSS, etwas JS.
+Gebaut mit **HTML**, **CSS** und etwas **JavaScript**.
 
 ---
 
 ## 📌 Features
 
-- Responsives Layout
-- Sauber strukturierter Code
+- Responsives Layout (Mobile-First)
+- Sauber strukturierter, gut kommentierter Code
+- Einfache Animationen (optional, wenn du welche hast)e
 
 ---
 
 ## 🛠️ Verwendete Technologien
 
-- HTML5
-- CSS3
-- JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ---
 
