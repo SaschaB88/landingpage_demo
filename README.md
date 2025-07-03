@@ -9,7 +9,6 @@ Gebaut mit **HTML**, **CSS** und etwas **JavaScript**.
 
 - Responsives Layout (Mobile-First)
 - Sauber strukturierter, gut kommentierter Code
-- Einfache Animationen (optional, wenn du welche hast)e
 
 ---
 

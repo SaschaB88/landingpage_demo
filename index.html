@@ -1,11 +1,84 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Demo Landingpage</title>
+    <!-- Einbindung der CSS-Datei für das Aussehen -->
+    <link rel="stylesheet" href="css/style.css">
+    <title>Demo Landingpage - Noise-Cancelling Kopfhörer</title>
 </head>
 <body>
-    
+    <!-- Kopfbereich Logo/Navi-->
+    <header id="header">
+  <div id="logo">
+    <h1>SBC NoiseBlock™</h1>
+  </div>
+  <nav id="nav">
+    <a href="#features">Features</a>
+    <a href="#form-section">Kontakt</a>
+  </nav>
+</header>
+
+    <!-- Hero-Bereich: Hauptbotschaft und Bild -->
+    <section id="hero">
+      <div id="hero-content">
+        <h1>Tauche ein in deine Welt – ohne Ablenkung.</h1>
+        <p>Die neuen SBC NoiseBlock™ NC500 verbinden High-End Noise Cancelling mit maximalem Komfort – für ungestörten Musikgenuss, egal wo du bist.</p>
+        <!-- Call-to-Action Button -->
+        <a href="#form-section" id="cta-button">Jetzt vorbestellen & 20 % sparen</a>
+      </div>
+      <div id="hero-image">
+        <!-- Produktbild -->
+        <img src="img/topshot.jpg" alt="SBC NoiseBlock NC500 Kopfhörer">
+      </div>
+    </section>
+
+    <!-- Features-Bereich: Produkt-Highlights als Liste -->
+    <section id="features">
+      <h2>Highlights</h2>
+      <ul>
+        <li>🔇 <strong>Hybrid Active Noise Cancelling</strong><br>
+          Blendet störende Geräusche mit bis zu 35 dB effektiv aus.
+        </li>
+        <li>🔋 <strong>Bis zu 40 Stunden Akku</strong><br>
+          Musikgenuss nonstop – Schnellladefunktion für 4 Stunden Sound in nur 10 Minuten Ladezeit.
+        </li>
+        <li>🎧 <strong>Kristallklarer High-Res Sound</strong><br>
+          40 mm Treiber für detailreiche Höhen und kräftige Bässe.
+        </li>
+        <li>📱 <strong>Nahtlose Verbindung</strong><br>
+          Modernes Bluetooth 5.2 mit aptX HD – kompatibel mit iOS, Android & PC.
+        </li>
+        <li>✈️ <strong>Maximaler Komfort & Mobilität</strong><br>
+          Weiche Memory-Foam-Polster, faltbares Design, nur 260 g Gewicht.
+        </li>
+      </ul>
+    </section>
+
+    <!-- Formular-Bereich: Nutzer können sich eintragen -->
+    <section id="form-section">
+      <h2>Sei einer der Ersten!</h2>
+      <p>Trage dich ein & sichere dir deinen exklusiven Vorbesteller-Rabatt.</p>
+
+      <form action="#" method="POST">
+        <div id="form-group">
+          <!-- Name-Eingabefeld -->
+          <label for="name">Name *</label>
+          <input type="text" id="name" name="name" placeholder="Dein Name" required>
+        </div>
+        <div id="form-group">
+          <!-- E-Mail-Eingabefeld -->
+          <label for="email">E-Mail *</label>
+          <input type="email" id="email" name="email" placeholder="Deine E-Mail-Adresse" required>
+        </div>
+        <!-- Absende-Button -->
+        <button type="submit" id="form-button">Absenden</button>
+      </form>
+    </section>
+
+    <!-- Footer: Copyright und Projektinfo -->
+    <footer id="footer">
+      <p>&copy; 2025 SBC NoiseBlock™ | Demo-Projekt von Sascha Bermel</p>
+    </footer>
 </body>
 </html>
