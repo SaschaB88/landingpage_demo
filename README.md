@@ -1,6 +1,6 @@
-# Landingpage Demo
+# Landingpage Demo für Noise-Cancelling Kopfhörer
 
-🚧 **Dummy-Projekt**: Beispielhafte Landingpage für ein Produkt.  
+🚧 **Dummy-Projekt**: Beispielhafte Landingpage für Noise-Cancelling Kopfhörer.  
 Gebaut mit **HTML**, **CSS** und etwas **JavaScript**.
 
 ---
