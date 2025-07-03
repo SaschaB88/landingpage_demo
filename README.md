@@ -1,4 +1,4 @@
-# Handwerker-Website Demo
+# Landingpage Demo
 
 🚧 **Dummy-Projekt**: Beispielhafte Landingpage für ein Produkt.  
 Gebaut mit **HTML**, **CSS** und etwas **JavaScript**.
