@@ -1,14 +1,13 @@
 # Handwerker-Website Demo
 
 🚧 **Dummy-Projekt**: Beispielhafte Landingpage für ein Produkt.  
-Gebaut mit HTML, CSS, etwas JS und PHP (Kontaktformular).
+Gebaut mit HTML, CSS, etwas JS.
 
 ---
 
 ## 📌 Features
 
 - Responsives Layout
-- Kontaktformular (PHP)
 - Sauber strukturierter Code
 
 ---
@@ -18,7 +17,6 @@ Gebaut mit HTML, CSS, etwas JS und PHP (Kontaktformular).
 - HTML5
 - CSS3
 - JavaScript
-- PHP (nur einfaches Mail-Formular)
 
 ---
 
